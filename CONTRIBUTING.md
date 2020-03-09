@@ -1,9 +1,8 @@
 ![CFLint](/src/main/resources/CFLint-logo.jpg)
 
-Contributing to CFLint
-======================
+# Contributing to CFLint
 
-# Project and library organisation
+## Project and library organisation
 
 CFLint is a project developed and worked on by volunteers. When logging issues please be nice and considerate, we're here to help. We really appreciate fixes and improvements, feel free to talk to us and/or provide pull requests.
 
@@ -11,9 +10,9 @@ CFLint is a project developed and worked on by volunteers. When logging issues p
 
 The master branch is considered our stable codebase. Most of the development happens in the dev branch resp. local development branches for specific issues.
 
-# How to contribute?
+## How to contribute
 
-The main repository of this project is https://github.com/cflint/CFLint.
+The main repository of this project is [CFLint](https://github.com/cflint/CFLint).
 
 Please fork from there, create a local dev branch from origin/dev (named so that it explains the work in the branch), and submit a pull request against the main repository's dev branch. Even better, get in touch with us here on Github before you undertake any work so that it can be coordinated with what we're doing.
 

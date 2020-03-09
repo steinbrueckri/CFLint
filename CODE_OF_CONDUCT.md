@@ -1,12 +1,12 @@
 ![CFLint](/src/main/resources/CFLint-logo.jpg)
 
-Code of Conduct
-===============
+# Code of Conduct
 
-### TL;DR 
+## TL;DR
+
 Don't be a dick!
 
-### What we stand for
+## What we stand for
 
 CFLint is a project developed and worked on by volunteers. Please be nice and considerate, we're here to help. We really appreciate fixes and improvements, feel free to talk to us and/or provide pull requests.
 
